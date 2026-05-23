@@ -1,0 +1,97 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>College Admission Form</title>
+</head>
+
+<body>
+
+    <h1><u>College Admission Form</u></h1>
+
+    <form>
+
+        <!-- Student Name -->
+        <label for="studentname">Student Name:</label>
+        <input type="text" id="studentname" placeholder="Enter your name">
+        
+        <br><br>
+
+        <!-- Email -->
+        <label for="email">Email ID:</label>
+        <input type="email" id="email" placeholder="Enter your email">
+
+        <br><br>
+
+        <!-- Password -->
+        <label for="password">Password:</label>
+        <input type="password" id="password" placeholder="Enter password">
+
+        <br><br>
+
+        <!-- Phone Number -->
+        <label for="phone">Phone Number:</label>
+        <input type="tel" id="phone" placeholder="Enter mobile number">
+
+        <br><br>
+
+        <!-- Gender -->
+        <label>Gender:</label>
+
+        <input type="radio" id="male" name="gender">
+        <label for="male">Male</label>
+
+        <input type="radio" id="female" name="gender">
+        <label for="female">Female</label>
+
+        <input type="radio" id="other" name="gender">
+        <label for="other">Other</label>
+
+        <br><br>
+
+        <!-- Courses -->
+        <label>Choose Course:</label>
+
+        <input type="checkbox" id="cse">
+        <label for="cse">CSE</label>
+
+        <input type="checkbox" id="ece">
+        <label for="ece">ECE</label>
+
+        <input type="checkbox" id="eee">
+        <label for="eee">EEE</label>
+
+        <br><br>
+
+        <!-- Department -->
+        <label for="department">Department:</label>
+
+        <select id="department">
+            <option>Select Department</option>
+            <option>CSE</option>
+            <option>ECE</option>
+            <option>Mechanical</option>
+            <option>Civil</option>
+        </select>
+
+        <br><br>
+
+        <!-- Address -->
+        <label for="address">Address:</label>
+
+        <br><br>
+
+        <textarea id="address" rows="5" cols="30" placeholder="Enter your address"></textarea>
+
+        <br><br>
+
+        <!-- Submit Button -->
+        <button type="submit">Submit Form</button>
+
+        <button type="reset">Reset</button>
+
+    </form>
+
+</body>
+</html>
