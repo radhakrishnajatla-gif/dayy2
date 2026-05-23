@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Student Report</title>
+</head>
+
+<body>
+
+    <h1><u><i>STUDENT REPORT CARD</i></u></h1>
+
+    <table border="1" cellpadding="10">
+
+        <tr>
+            <th>Student Name</th>
+            <th>Maths</th>
+            <th>Science</th>
+            <th>English</th>
+            <th>Total</th>
+        </tr>
+
+        <tr>
+            <td>Anjali</td>
+            <td>90</td>
+            <td>85</td>
+            <td>88</td>
+            <td>263</td>
+        </tr>
+
+        <tr>
+            <td>Kiran</td>
+            <td>78</td>
+            <td>80</td>
+            <td>75</td>
+            <td>233</td>
+        </tr>
+
+        <tr>
+            <td>Deepika</td>
+            <td>95</td>
+            <td>92</td>
+            <td>90</td>
+            <td>277</td>
+        </tr>
+
+    </table>
+
+    <br>
+
+    <img 
+    src="https://cdn-icons-png.flaticon.com/512/2784/2784487.png"
+    width="200"
+    height="200"
+    alt="Student Report">
+
+    <hr>
+
+    <p>
+        <mark>Education is the key to success.</mark>
+    </p>
+
+</body>
+</html>
