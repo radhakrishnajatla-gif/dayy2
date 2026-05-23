@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>My Favourite Things</title>
+</head>
+
+<body>
+
+    <h1><u>About My Favourite Things</u></h1>
+
+    <p>
+        Hello! My name is Ramya. 
+        <mark>I enjoy coding</mark>, 
+        <mark>watching movies</mark>, and 
+        <i><mark>spending time with friends</mark></i>.
+    </p>
+
+    <hr>
+
+    <h2>My Favourite Foods</h2>
+
+    <ul>
+        <li>Biryani</li>
+        <li>Pizza</li>
+        <li>Ice Cream</li>
+    </ul>
+
+    <hr>
+
+    <h2>My Favourite Movies</h2>
+
+    <ol>
+        <li>Train to Busan</li>
+        <li>Your Name</li>
+        <li>Avengers: Endgame</li>
+    </ol>
+
+    <hr>
+
+    <h2>My Favourite Website</h2>
+
+    <p>Click the link below to practice coding:</p>
+
+    <a href="https://leetcode.com/" target="_blank">
+        Visit LeetCode
+    </a>
+
+    <hr>
+
+    <h2>My Favourite Quote</h2>
+
+    <p>
+        <b>"Success comes from continuous learning."</b>
+    </p>
+
+</body>
+</html>
